@@ -2,10 +2,10 @@
   {
     "id": 1,
     "photos": {
-      "mainImg": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/weartrackmain.jpg",
-      "screenshots": ["https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/weartrack3.jpg", "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/weartrack2.jpg", "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/weartrack1.jpg", "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/weartrack4.jpg"]
+      "mainImg": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/weartrackmain.jpg",
+      "screenshots": ["https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/weartrack3.jpg", "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/weartrack2.jpg", "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/weartrack1.jpg", "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/weartrack4.jpg"]
     },
-    "background": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/background/underwaterbgproduct.png",
+    "background": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/background/underwaterbgproduct.png",
     "heading": "Wear Trak",
     "subheading": "Dive into Safety, Not the Sea",
     "description":
@@ -13,29 +13,29 @@
     "learnMoreLink": "#/product/1",
     "details": [
       {
-        "icon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/star.svg",
-        "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/weartrack2.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/star.svg",
+        "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/weartrack2.jpg",
         "title": "WearTrak",
         "content":
           "Our product WearTrak addresses this challenge head-on. By harnessing advanced virtual sensor technology, we've eliminated the need for physical sensors to be mounted on the outboard bearings themselves, sparing them from exposure to corrosive seawater and other harsh elements. Instead, our sensors are securely installed inside the ship, where they can safely and accurately monitor bearing wear from a distance. This approach not only simplifies the monitoring process but also enhances safety and reliability by reducing the need for divers to perform manual measurements in challenging conditions"
       },
       {
-        "icon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/circut.svg",
-        "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/weartrack3.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/circut.svg",
+        "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/weartrack3.jpg",
         "title": "The Need for Technology",
         "content":
           "Marine bearings face constant challenges from corrosion and external factors, leading to frequent and unpredictable wear. Traditionally, assessing this wear has been a demanding task involving divers manually measuring it with a poker gauge underwater. Due to operational limitations and the harsh marine environment, placing sensors directly on submerged outboard shaft bearings is impractical."
       },
 
       {
-        "icon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/customer.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/customer.svg",
         "title": "Customer Benefit",
         "content":
           "This approach not only simplifies the monitoring process but also enhances safety and reliability by reducing reliance on divers. Ultimately, WearTrak enables the Naval as well as merchant ship to maintain operational readiness and extend the lifespan of critical marine components while ensuring personnel safety."
       }
     ],
-    "featureicon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/keyfeature.svg",
-    "featureimg": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/weartrack1.jpg",
+    "featureicon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/keyfeature.svg",
+    "featureimg": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/weartrack1.jpg",
     "features": [
       {
         "title": "Virtual Sensor Technology",
@@ -111,10 +111,10 @@
   {
     "id": 2,
     "photos": {
-      "mainImg": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/aibatmain.jpg",
-      "screenshots": ["https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/aibat_main.jpg", "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/aibat2.jpg", "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/aibat_main.jpg", "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/aibat4.jpg"]
+      "mainImg": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/aibatmain.jpg",
+      "screenshots": ["https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/aibat_main.jpg", "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/aibat2.jpg", "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/aibat_main.jpg", "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/aibat4.jpg"]
     },
-    "background": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/background/maintananceproduct.png",
+    "background": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/background/maintananceproduct.png",
 
     "heading": "AI -BAT",
     "subheading": "Transforming Sonar for Enhanced Situational Awareness",
@@ -123,35 +123,35 @@
     "learnMoreLink": "#/product/2",
     "details": [
       {
-        "icon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/star.svg",
-        "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/aibat1.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/star.svg",
+        "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/aibat1.jpg",
         "title": "AI-BAT",
         "content":
           "Guardinger Technologies’  AI-Based Adaptive Noise Cancellation system for Autonomous Underwater Vehicles (AUVs) and ship-borne applications, offers automated denoising, target classification, AI-driven real-time analysis, multi-processing for efficient data management, and intuitive visualization, all while operating unattended."
       },
       {
-        "icon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/circut.svg",
-        "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/aibat5.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/circut.svg",
+        "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/aibat5.jpg",
         "title": "The Need for Technology",
         "content":
           "The Indian Navy requires effective sonar systems with AI capabilities to overcome challenges from ambient, self-generated, and platform noise, which can hinder underwater operations affected by environmental factors like temperature, salinity, and traffic density."
       },
 
       {
-        "icon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/circut.svg",
-        "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/aibat3.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/circut.svg",
+        "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/aibat3.jpg",
         "title": "Modes of Operation",
         "content":
           "The system features two key modes of operation. In Offline Mode, it processes historical data batches efficiently and autonomously, ensuring thorough analysis without real-time constraints. In Online Mode, the system performs real-time analysis and provides decision support during active operations, adapting dynamically to changing conditions. Both modes leverage AI-driven capabilities to optimize performance and ensure seamless, accurate noise cancellation and target classification for Autonomous Underwater Vehicles (AUVs) and ship-borne applications."
       },
       {
-        "icon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/customer.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/customer.svg",
         "title": "Customer Benefit",
         "content":
           "It aims at enhancing maritime surveillance, improving underwater threat detection, and facilitating precise navigation."
       }
     ],
-    "featureicon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/keyfeature.svg",
+    "featureicon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/keyfeature.svg",
     "features": [
       {
         "title": "Automated Denoising (Low to High SNR)",
@@ -199,10 +199,10 @@
   {
     "id": 3,
     "photos": {
-      "mainImg": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/topbanner/underwater-hero.jpg",
-      "screenshots": ["https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/indisonic1.jpg", "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/indisonic_main.jpg", "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/indisonic_main.jpg", "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/indisonic2.jpg"]
+      "mainImg": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/topbanner/underwater-hero.jpg",
+      "screenshots": ["https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/indisonic1.jpg", "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/indisonic_main.jpg", "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/indisonic_main.jpg", "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/indisonic2.jpg"]
     },
-    "background": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/background/situationalproduct.png",
+    "background": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/background/situationalproduct.png",
     "heading": "Indisonic Pro GT 200",
     "subheading": "Acquire Anywhere Transmit Everywhere",
     "description":
@@ -210,21 +210,21 @@
     "learnMoreLink": "#/product/3",
     "details": [
       {
-        "icon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/star.svg",
-        "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/indisonic1.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/star.svg",
+        "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/indisonic1.jpg",
         "title": "Indisonic Pro GT 200",
         "content":
           "This state-of-the-art electronic payload system includes a robust, hydrophone array with high speed data acquisition board, and a compact edge computing device equipped with sophisticated processing algorithms."
       },
       {
-        "icon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/circut.svg",
-        "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/indisonic_main.jpg",
+        "icon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/circut.svg",
+        "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/indisonic_main.jpg",
         "title": "What Sets It Apart",
         "content":
           "What truly sets it apart is its satellite-based data transmission, enabling seamless communication from any location on Earth. ideal for platforms like sonobuoys and unmanned underwater vehicles like gliders, this system effectively monitors underwater activities for both scientific research and surveillance purposes."
       }
     ],
-    "featureicon": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/products/keyfeature.svg",
+    "featureicon": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/products/keyfeature.svg",
     "features": [
       {
         "title": "Real Time Monitoring of Underwater Target",

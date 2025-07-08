@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/forward.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/achievements/forward.jpg",
     "shortTitle": "Defence Forward Tour",
     "location": "Jammu & Kashmir",
     "displayDate": "August, 2023",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/defexpo.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/achievements/defexpo.jpg",
     "shortTitle": "Defence Tech Showcase",
     "location": "Pune",
     "displayDate": "24th - 26th Feb, 2024",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/delhiexpo.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/achievements/delhiexpo.jpg",
     "shortTitle": "Indisonic Unveiled",
     "location": "New Delhi",
     "displayDate": "14th June, 2024",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/isro_immersion.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/achievements/isro_immersion.jpg",
     "shortTitle": "ISRO Immersion Entry",
     "location": "Hyderabad",
     "displayDate": "3rd August, 2024",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/sawlamban.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/gat-web-trial@refs/heads/main/achievements/sawlamban.jpg",
     "shortTitle": "Naval Innovation Summit",
     "location": "Delhi",
     "displayDate": "28th - 29th October 2024.",
