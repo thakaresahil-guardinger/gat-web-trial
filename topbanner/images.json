@@ -1,30 +1,30 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/underwater-hero.jpg",
+    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/topbanner/underwater-hero.jpg",
     "title": "Underwater Situational Awareness",
     "description": "Diving into underwater innovation with advanced signal processing and sustainable monitoring in maritime industries",
     "alt": "Underwater technology equipment in marine environment"
   },
   {
-    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/condition-hero.jpg",
+    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/topbanner/condition-hero.jpg",
     "title": "Edge Computer-Based Sensor Suite For Strategic Applications",
     "description": "Custom predictive maintenance hardware & software for defense & Industrial assets: Ships, Tanks & Aircrafts & Critical Industrial Machinery",
     "alt": "Edge computing sensor suite used on industrial equipment"
   },
   {
-    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/situation-hero.jpg",
+    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/topbanner/situation-hero.jpg",
     "title": "Situational Awareness and Command Control Systems",
     "description": "Real-time sensor data integration directly within the user interface, enabling real-time monitoring, data visualization, and interaction",
     "alt": "Command control interface showing situational awareness software"
   },
   {
-    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/radar-doppler.jpg",
+    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/topbanner/radar-doppler.jpg",
     "title": "Climate Sciences and Weather Services",
     "description": "Seamless integration of real-time sensor data for live weather monitoring, visualization, and rapid response.",
     "alt": "Weather monitoring station with climate science equipment"
   },
   {
-    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/rocket_propellent.gif",
+    "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/topbanner/rocket_propellent.gif",
     "title": "Measurement Systems and Fabrication of Test Rigs & Electromechanical Systems",
     "description": "We design and build intelligent measurement systems and custom test rigs that enable real-time insights into critical components, processes, and experimental setups — where accuracy, repeatability, and robustness are essential.",
     "alt": "Precision measurement test rig with electromechanical components"
