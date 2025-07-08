@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/forward.jpg",
+    "shortTitle": "Defence Forward Tour",
+    "location": "Jammu & Kashmir",
+    "displayDate": "August, 2023",
+    "date": "2023-08-01",
+    "title": "Guardinger Joins Forward Area Tour in J&K to Support Indigenous Defence Innovation",
+    "source": "GUARDINGER TIMES",
+    "content": "Guardinger Advanced Technologies was among a select group of Indian defence innovators invited to participate in the prestigious Forward Area Tour organized in the border regions of Jammu & Kashmir. The initiative, led by the Indian Army, aims to foster deeper collaboration between defence forces and the nation’s industry and academic sectors, in line with the Government of India’s AtmaNirbhar Bharat (Self-Reliant India) vision. The Forward Area Tour offered participants an immersive exposure to the harsh terrain, extreme weather conditions, and logistical complexities that define military operations in forward areas. For Guardinger, this was a critical opportunity to directly engage with operational realities and understand the nuanced challenges faced by troops stationed along India’s sensitive frontiers. Through interactive sessions and field visits, Guardinger gained valuable insights into frontline requirements—ranging from communication difficulties in mountainous terrain to the urgent need for rugged, deployable technologies that can function in extreme environments. Such firsthand exposure is instrumental in helping companies like Guardinger design tailor-made, indigenous solutions that reduce reliance on imported systems and enhance operational efficiency. The tour also served as a powerful platform for collaboration, bringing together defence experts, field commanders, industry leaders, and academic researchers. Discussions during the tour emphasized the importance of co-development, agile R&D, and rapid prototyping to meet real-time operational needs. Guardinger, known for its AI-enabled and multi sensor, multi platform fusion driven monitoring technologies, expressed its commitment to channeling the insights gained into future innovations specifically suited for border operations. Company representatives highlighted the value of the experience in shaping product development that aligns closely with the Indian Army’s evolving tactical and logistical requirements. As India pushes forward with its mission of technological self-reliance in defence, initiatives like the Forward Area Tour continue to play a vital role in connecting frontline challenges with homegrown capabilities—an approach Guardinger is proud to support."
+  },
+  {
+    "id": 2,
+    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/defexpo.jpg",
+    "shortTitle": "Defence Tech Showcase",
+    "location": "Pune",
+    "displayDate": "24th - 26th Feb, 2024",
+    "date": "2024-02-26",
+    "title": "Guardinger Advanced Technologies Showcases Cutting-Edge Defence Innovations at Maharashtra MSME Defence Expo",
+    "source": "GUARDINGER TIMES",
+    "content": "At the heart of the Maharashtra MSME Defence Expo held in Pune from February 24th to 26th, Guardinger Advanced Technologies made a compelling mark with the demonstration of two pioneering solutions aimed at revolutionizing marine defence operations.\nThe spotlight was on WearTrak, a state-of-the-art system designed to remotely monitor the wear of marine bearings—critical components that are often subjected to harsh underwater environments and corrosive forces. Traditionally, assessing bearing wear required divers to manually measure the components using poker gauges, a laborious and risky task. Recognizing the impracticality of mounting sensors directly on submerged outboard shaft bearings, Guardinger engineered a breakthrough: virtual sensor technology. By placing the sensors safely inside the ship, WearTrak offers real-time, reliable data on bearing wear without exposing any hardware to seawater. This not only enhances the safety of maintenance crews but also streamlines the entire monitoring process—ushering in a new era of non-intrusive, predictive maintenance.\nEqually impressive was the unveiling of AI-BAT, an AI-driven Adaptive Noise Cancellation System that significantly elevates underwater situational awareness. In environments often plagued by low signal-to-noise ratios, AI-BAT delivers automated denoising, target classification, and smart threat analysis capabilities. The system dynamically adapts to fluctuating underwater acoustic conditions, enabling clearer detection of potential threats and facilitating safer, more informed decision-making during naval operations.\nGuardinger’s showcase attracted significant attention from industry leaders, defence personnel, and policy makers alike—highlighting the company's role as a frontrunner in next-generation marine defence technologies."
+  },
+  {
+    "id": 3,
+    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/delhiexpo.jpg",
+    "shortTitle": "Indisonic Unveiled",
+    "location": "New Delhi",
+    "displayDate": "14th June, 2024",
+    "date": "2024-06-14",
+    "title": "Guardinger Showcases 'Indisonic Pro GT 200' at National Seminar on Underwater Navigation, IIT Delhi",
+    "source": "GUARDINGER TIMES",
+    "content": "At the National Seminar on Innovation in Underwater Navigation hosted by IIT Delhi, Guardinger Advanced Technologies unveiled its latest breakthrough in underwater acoustic monitoring — the Indisonic Pro GT 200. The event brought together experts from academia, defence, and industry to explore the future of underwater navigation and surveillance, with Guardinger’s innovation drawing widespread attention.\nThe Indisonic Pro GT 200 is a cutting-edge electronic payload system tailored for underwater research and defence applications. It features a robust hydrophone array, a high-speed data acquisition board, and a compact edge computing unit that runs advanced signal processing algorithms in real time. Designed for platforms such as sonobuoys and unmanned underwater vehicles (UUVs) like gliders, the system offers a powerful solution for monitoring underwater acoustic environments.\nWhat sets the Indisonic Pro GT 200 apart is its satellite-based data transmission capability, allowing seamless data relay from virtually any point on the globe. This unique feature ensures that underwater acoustic data can be acquired in remote regions and transmitted instantly — fulfilling its promise to \"Acquire Anywhere, Transmit Everywhere.\"\nThe seminar served as a dynamic forum for exchanging ideas on next-gen underwater systems, with Guardinger’s offering sparking interest for its potential in coastal surveillance, submarine tracking, environmental research, and maritime domain awareness."
+  },
+  {
+    "id": 4,
+    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/isro_immersion.jpg",
+    "shortTitle": "ISRO Immersion Entry",
+    "location": "Hyderabad",
+    "displayDate": "3rd August, 2024",
+    "date": "2024-08-03",
+    "title": "Guardinger Participates in ISRO Immersion Challenge with Advanced Space Debris Tracking Solutions",
+    "source": "GUARDINGER TIMES",
+    "content": "Guardinger Advanced Technologies showcased its capabilities in space surveillance and situational awareness at the ISRO Immersion Challenge 2024, held in Hyderabad. The national-level event brought together cutting-edge innovators from across India to address some of the most pressing challenges in the space domain, with Guardinger emerging as a key participant in two critical areas.\nAs part of the challenge, Guardinger presented its concepts and prototypes for an Intelligent Space Debris Identification, Tracking, and Management System, combining Light Detection and Ranging (LIDAR) with Electro Optical (EO) sensors to deliver enhanced space situational awareness. The system aims to provide precise tracking and classification of space debris, a growing threat to satellites, space stations, and future missions.\nThe LIDAR-based system enables high-resolution 3D mapping of orbital objects, while the EO sensors contribute to real-time visual identification and movement analysis. Together, these technologies are designed to work in tandem, allowing for the autonomous detection, categorization, and predictive tracking of debris in low Earth orbit (LEO) and beyond. The platform is further enhanced by intelligent algorithms capable of forecasting collision risks and recommending mitigation strategies."
+  },
+  {
+    "id": 5,
+    "img": "https://raw.githubusercontent.com/thakaresahil-guardinger/gat-web-trial/refs/heads/main/achievements/sawlamban.jpg",
+    "shortTitle": "Naval Innovation Summit",
+    "location": "Delhi",
+    "displayDate": "28th - 29th October 2024.",
+    "date": "2024-10-28",
+    "title": "3rd EDITION OF INDIAN NAVY'S NAVAL INNOVATION AND INDIGENISATION SEMINAR - SWAVLAMBAN 2024",
+    "source": "GUARDINGER TIMES",
+    "content": "The 3rd edition of the Indian Navy’s Naval Innovation and Indigenisation Organisation (NIIO) Seminar – Swavlamban 2024 is set to be held at Bharat Mandapam, New Delhi, from 28th to 29th October 2024.\nOver the past two editions, Swavlamban has received over 2,000 proposals from Indian industry stakeholders. These have been distilled into 155 development challenges, fostering prototype creation and enabling active collaboration with more than 200 MSMEs and startups under the iDEX (Innovations for Defence Excellence) scheme.\nAt Swavlamban 2024, we proudly showcased two iDEX projects awarded to us under iDEX DISC 7: AI-BAT (Artificial Intelligence-Based Target Classification): A state-of-the-art AI solution designed to accurately classify targets, enhancing precision and decision-making in defense operations. WearTrak: An intelligent system for monitoring wear and tear in marine bearings, facilitating predictive maintenance and improving operational efficiency."
+  }
+]
